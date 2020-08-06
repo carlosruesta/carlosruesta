@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<-- 
-### Hi there! 😁
+ ### Hi there! 😁
 
 My name is Felipe Fialho from Brazil (🇧🇷). I've been working as Front-End Developer since 2009 and currently I'm Tech Lead at [Juntos Somos Mais](https://juntossomosmais.com.br). I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
 
