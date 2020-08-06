@@ -3,6 +3,9 @@
 Sou o Carlos Ruesta, peruano e moro no Brasil desde 2005. Trabalho como Diretor de TI na Dcide, empresa dedicada ao desenvolvimento de soluções para comercialização de energia elétrica.
 
 <!--
+
+Para adicionar mais firulas procurar ajuda em https://shields.io/
+
 **carlosruesta/carlosruesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
