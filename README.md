@@ -4,6 +4,14 @@ Sou o Carlos Ruesta, peruano e moro no Brasil desde 2005. Trabalho como Diretor 
 
 <!--
 
+- Comecei a desenvolver em Basic na escola e planilhas Qpro.
+- Na faculdade trabalhei bastante com linguagens diversas: pascal, turbo pascal, c, c++, visual c++, java, visual basic e visual foxpro.
+- Naquele tempo fiz poucas coisas para web, tudo era para desktop, pois era o que no momento comandava os negócios.
+- Profissionalmente, comecei desenvolvendo por conta própria uma aplicação desktop em Visual Basic e Access. Depois de 2 meses de trabalho, joguei tudo fora e refiz a aplicação desktop em Visual FoxPro com uma base de dados própria baseada em arquivos DBF. Essa aplicação atende até hoje o faturamento de uma instituição de ensino no Peru. Cada certo tempo o dono da escola me liga para me solicitar a senha de instalação pois perdeu o servidor e teve que reinstalar, rsrsrs.
+
+
+
+
 Para adicionar mais firulas procurar ajuda em https://shields.io/
 
 **carlosruesta/carlosruesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
