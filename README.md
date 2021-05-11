@@ -4,7 +4,7 @@ Sou o Carlos Ruesta, peruano e moro no Brasil desde 2005. Trabalho como Diretor 
 
 <br>
 
-  <a href="https://www.linkedin.com/in/carlosruesta/">
+  <a href="https://www.linkedin.com/in/carlosruesta/" about:"_blank">
     <img align="left" alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" />
   </a>
 
