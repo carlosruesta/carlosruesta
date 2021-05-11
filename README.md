@@ -4,18 +4,18 @@ Sou o Carlos Ruesta, peruano e moro no Brasil desde 2005. Trabalho como Diretor 
 
 <br>
 
-  <a href="https://www.linkedin.com/in/carlosruesta/" about:"_blank">
+  <a href="https://www.linkedin.com/in/carlosruesta/" target="_blank">
     <img align="left" alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" />
   </a>
 
-  <a href="mailto:carlos_ruesta@yahoo.es">
+  <a href="mailto:carlos_ruesta@yahoo.es" target="_blank">
     <img align="left" alt="Carlos Ruesta | Mail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
   </a>
 
 <br><br>
 
 <a href="https://github.com/carlosruesta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosruesta&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosruesta&&langs_count=8&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/carlosruesta">
