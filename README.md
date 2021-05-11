@@ -15,10 +15,10 @@ Sou o Carlos Ruesta, peruano e moro no Brasil desde 2005. Trabalho como Diretor 
 <br><br>
 
 <a href="https://github.com/carlosruesta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosruesta&&langs_count=8&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosruesta&&langs_count=7&theme=blue-green&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/carlosruesta">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosruesta&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosruesta&show_icons=true&theme=blue-greent&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <br>
